@@ -21,3 +21,4 @@ L – Уменьшить тягу
 
 Приятной игры!
 Производственные файлы проекта находятся в репозитории https://github.com/justanuman/samolet
+ссылка на запись геймплея https://www.youtube.com/watch?v=Nfy5XwZ2gII&ab_channel=%D0%9C%D0%B0%D0%BA%D1%81%D0%B8%D0%BC%D0%A2%D0%B8%D1%85%D0%BE%D0%BC%D0%B8%D1%80%D0%BE%D0%B2
